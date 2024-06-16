@@ -12,7 +12,7 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 global.mods = ['923192173398'] 
-global.prems = ['923192173398', '923192173398', '923192173398']
+global.prems = ['254717407351', '923192173398', '923192173398']
 global.allowed = ['923192173398']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -37,8 +37,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗'
-global.princebot = '🛡️𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛🛡️'
+global.botname = '𝗪AGWANS'
+global.princebot = '🛡️JAMES KWESH🛡️'
 global.packname = '𝗪𝗔𝗦𝗜♥️' 
 global.author = '𝗧𝗘𝗖𝗛♥️' 
 global.princeig = 'https://www.instagram.com' 
